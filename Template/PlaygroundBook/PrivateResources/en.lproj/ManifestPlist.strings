@@ -1,0 +1,22 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+/* The localized name of the playground book. */
+"PlaygroundBookName" = "我的苹果派";
+
+//Chapter 1
+/* The localized name of the first chapter in the playground book. */
+"ChapterOneName" = "内存结构";
+"ChapterOnePageOneName" = "1，内置类型的内存结构";
+"ChapterOnePageTwoName" = "2，enum的内存结构";
+
+
+
+//Chapter 2
+"ChapterTwoName" = "SwiftUI";
+"ChapterTwoPageOneName" = "1，Protocol - App, Scene and View";
+"ChapterTwoPageTwoName" = "2，Data Flow";
